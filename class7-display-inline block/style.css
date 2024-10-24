@@ -1,0 +1,70 @@
+#mainheading{
+text-align: center;
+background-color: blueviolet;
+font-size: 5rem;
+color: orangered;
+border-radius: 20px;
+border: 10px solid pink;
+
+
+
+
+}
+#chetriheading{
+background-color: brown;
+color: yellow;
+width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#chetridescription{
+display: inline-block;
+width: 900px;
+height: 400px; ;
+text-align: justify;
+overflow:auto;
+
+
+
+}
+#sandeshheading{
+background-color: blue;
+color: black;
+width: 200px;
+
+
+
+}
+ 
+
+
+
+
+#sandeshdescription{
+display: inline-block;
+width: 700px;
+height: 150px;
+text-align: justify;
+overflow:auto;
+
+
+
+
+
+
+
+
+}
+ 
+
+
